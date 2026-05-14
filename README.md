@@ -1,2 +1,1 @@
-# NYAT-dev
-NYAT ödev klasörü
+ÖDEV VİDEOSU BU KLASÖRDEDİR
