@@ -1,0 +1,17 @@
+ÇALIŞTIRMA NOTU
+
+Bu paket .NET 10.0 hedeflenerek hazırlanmıştır. Bilgisayarınızda .NET 10.0.7 bulunduğu için önceki .NET 8.0 runtime hatasını çözmek amacıyla TargetFramework net10.0 yapıldı.
+
+Web uygulamasını çalıştırmak için:
+1) Visual Studio ile NYAT_ODEV_Web_Calistir.sln dosyasını açın.
+2) Üstteki yeşil çalıştırma butonunun yanında proje adı NYAT_ODEV olmalı.
+3) F5 veya Ctrl+F5 ile çalıştırın.
+
+Dikkat:
+NYAT_ODEV.Tests projesi test amaçlı konsol projesidir. Yanlışlıkla onu başlatırsanız web sitesi açılmaz. Solution Explorer'da NYAT_ODEV projesine sağ tıklayıp Set as Startup Project seçin.
+
+Alternatif terminal komutu:
+cd NYAT_ODEV
+ dotnet run
+
+Tarayıcı otomatik açılmazsa konsoldaki https://localhost:xxxx adresini tarayıcıya kopyalayın.

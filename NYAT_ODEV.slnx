@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NYAT_ODEV/NYAT_ODEV.csproj" />
+  <Project Path="NYAT_ODEV.Tests/NYAT_ODEV.Tests.csproj" />
+</Solution>
